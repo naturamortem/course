@@ -1,0 +1,54 @@
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\bin\Debug\Ювелирная мастерская.exe.config
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\bin\Debug\Ювелирная мастерская.exe
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\bin\Debug\Ювелирная мастерская.pdb
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.csprojAssemblyReference.cache
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.csproj.ResolveComReference.cache
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.AddMaster.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.AddMaterial.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.AddProduct.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.AddQual.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.AddType.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Add_Client.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Add_Manager.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Admin.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdManager.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Main.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Security.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Properties.Resources.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdMaster.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdMaterial.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdProduct.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdQual.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdTP.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Upd_Client.resources
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.csproj.GenerateResource.cache
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.csproj.CoreCompileInputs.cache
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.exe
+C:\Users\loqie\OneDrive\Рабочий стол\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.pdb
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\bin\Debug\Ювелирная мастерская.exe.config
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\bin\Debug\Ювелирная мастерская.exe
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\bin\Debug\Ювелирная мастерская.pdb
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.csprojAssemblyReference.cache
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.csproj.ResolveComReference.cache
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.AddMaster.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.AddMaterial.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.AddProduct.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.AddQual.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.AddType.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Add_Manager.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Admin.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdManager.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Main.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Security.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Properties.Resources.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdMaster.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdMaterial.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdProduct.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdQual.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.UpdTP.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.Upd_Client.resources
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.csproj.GenerateResource.cache
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.csproj.CoreCompileInputs.cache
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.exe
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная мастерская.pdb
+C:\Users\loqie\OneDrive\Рабочий стол\Курсовая работа МДК 05.02\coursework-master\coursework-master\Ювелирная мастерская\obj\Debug\Ювелирная_мастерская.add_brunch.resources
